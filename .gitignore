@@ -1,0 +1,24 @@
+# Ignore virtual environments
+venv/
+env/
+
+# Ignore compiled Python files
+__pycache__/
+*.pyc
+
+# Ignore model and dataset files
+*.pkl
+*.pt
+*.h5
+*.zip
+*.tar
+*.tar.gz
+*.csv
+dataset/
+models/
+checkpoints/
+
+# Misc
+.DS_Store
+.idea/
+.vscode/
