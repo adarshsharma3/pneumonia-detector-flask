@@ -7,7 +7,7 @@ __pycache__/
 *.pyc
 
 # Ignore model and dataset files
-*.pkl
+
 *.pt
 *.h5
 *.zip
